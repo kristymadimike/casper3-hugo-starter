@@ -154,3 +154,4 @@ fields:
       label: disableInlineCSS
 pages:
 - config.toml
+- config.toml
